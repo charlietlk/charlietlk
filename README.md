@@ -25,8 +25,9 @@
 
 ##  About Me
 
-I'm a **Computer Engineering student** focused mainly on **Python development**.  
-I enjoy building **real, practical projects** rather than just learning theory.
+I'm a Computer Engineering student focused mainly on Python development.
+I enjoy building real projects, including backend applications and small games,
+to improve my practical programming skills.
 
 Currently, I work on:
 - Backend development with **Python**
@@ -37,7 +38,13 @@ I prefer learning by **building and breaking things**, then fixing them.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
+
+- Python (main focus)
+- FastAPI (in progress)
+- Unity, C#
+- HTML, CSS (basic)
+- Git, GitHub
 
 ###  Main Focus
 <p>
